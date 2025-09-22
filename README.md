@@ -20,16 +20,22 @@
 Повторить демонстрацию лекции(развернуть vpc, 2 веб сервера, бастион сервер)
 
 ---
-![Скриншот команды ansible-playbook -i production.ini download_and_extract.yml](https://github.com/valdemar-2502/Ansible-Homework/blob/main/demo_ansible_downloads_kafka.png)
-![Скриншот команды ansible-playbook -i production.ini download_and_extract.yml](https://github.com/valdemar-2502/Ansible-Homework/blob/main/demo_vm-1-kafka.png)
-![Скриншот команды ansible-playbook -i production.ini download_and_extract.yml](https://github.com/valdemar-2502/Ansible-Homework/blob/main/demo_vm-2-kafka.png)
-
-
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/terraform_plan.png)
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/terraform_apply.png)
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/install_vm.png)
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/demo_cloud.png)
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/demo_vm.png)
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/ssh_bastion.png)
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/jump_web-a.png)
 
 ### Задание 2 
 
 С помощью ansible подключиться к web-a и web-b , установить на них nginx.(написать нужный ansible playbook)
 
+---
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/demo_ansible.png)
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/demo_nginx.png)
+![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/demo_destroy.png)
 
 Провести тестирование и приложить скриншоты развернутых в облаке ВМ, успешно отработавшего ansible playbook. 
 
