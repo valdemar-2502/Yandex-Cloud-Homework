@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Подъём инфраструктуры в Yandex Cloud»
+# Домашнее задание к занятию «Подъём инфраструктуры в Yandex Cloud»-Kadancev Vladimir
 
 ### Оформление домашнего задания
 
@@ -18,6 +18,13 @@
 ### Задание 1 
 
 Повторить демонстрацию лекции(развернуть vpc, 2 веб сервера, бастион сервер)
+
+---
+![Скриншот команды ansible-playbook -i production.ini download_and_extract.yml](https://github.com/valdemar-2502/Ansible-Homework/blob/main/demo_ansible_downloads_kafka.png)
+![Скриншот команды ansible-playbook -i production.ini download_and_extract.yml](https://github.com/valdemar-2502/Ansible-Homework/blob/main/demo_vm-1-kafka.png)
+![Скриншот команды ansible-playbook -i production.ini download_and_extract.yml](https://github.com/valdemar-2502/Ansible-Homework/blob/main/demo_vm-2-kafka.png)
+
+
 
 ### Задание 2 
 
